@@ -119,14 +119,14 @@ Upon running the code, the project outputs:
 ---
  
 ## Contributors
- 
+
 This project was developed by:
-- Faisal Alkhrayef
-- Abdulaziz Al Frayan
+- **[Faisal Alkhrayef](https://www.linkedin.com/in/fkhrayef/)** <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="16" alt="LinkedIn Logo">
+- **[Abdulaziz Al Frayan](https://www.linkedin.com/in/aziizdev/)** <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="16" alt="LinkedIn Logo">
 - Yaser Alshareef
- 
-**Instructor**: Abdullah Alsheddy
- 
+
+**Instructor**: **[Abdullah Alsheddy](https://www.linkedin.com/in/abdullah-alsheddy/)** <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="16" alt="LinkedIn Logo">
+
 ---
  
 Feel free to explore the code, tweak the parameters, and experiment with different datasets. Enjoy clustering!
