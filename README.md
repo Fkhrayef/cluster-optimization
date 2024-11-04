@@ -98,10 +98,8 @@ Upon running the code, the project outputs:
 | Genetic Algorithm | 1119.1388   | 1038.5282     | 47.4647            | 4.0574           |
  
 #### Graph (Plot)
-![Sparse82 Graph](https://github.com/user-attachments/assets/15096e56-11f6-480a-a89e-f8b5f1c3c66e)
+![Sparse82 Graph](https://github.com/user-attachments/assets/097b29a8-e5f0-4399-a083-d3f22c3e4fbd)
 
- 
- 
 ### Results for `RanReal480`
  
 #### Performance Summary Table
@@ -113,9 +111,8 @@ Upon running the code, the project outputs:
 | Genetic Algorithm | 353253.7760    | 352262.3310   | 611.8258           | 75.9309          |
  
 #### Graph (Plot)
-![RanReal480 Graph](https://github.com/user-attachments/assets/ada47cda-9420-44c9-8e65-ffa60787b35c)
+![RanReal480 Graph](https://github.com/user-attachments/assets/03078d42-745f-4107-8207-d71822cb7589)
 
- 
 ---
  
 ## Contributors
